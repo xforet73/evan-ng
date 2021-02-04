@@ -2,3 +2,5 @@ je fais un fichier test
 ajout 1
 
 Ajout 2
+
+j'édite le fichier en direct sur Github
